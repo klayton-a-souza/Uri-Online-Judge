@@ -1,3 +1,4 @@
+#Solução Ruim mudar, olhar como funciona o .format e o round.
 valor = int(input())
 
 numeroCedulas = 0
